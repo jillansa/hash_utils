@@ -64,7 +64,7 @@ yankees
 ashley
 666666
 hello
-amanda
+clave
 orange
 biteme
 freedom
